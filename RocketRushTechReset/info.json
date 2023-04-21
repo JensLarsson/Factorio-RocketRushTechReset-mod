@@ -1,0 +1,10 @@
+{
+    "name": "RocketRushTechReset",
+    "version": "1.0.0",
+    "title": "Rocket Rush Tech Reset",
+    "author": "Jens",
+    "description": "Simply resets the tech tree for Rocket Rush, allowing an easy way to customize your game start",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.0"]
+  }
+  
